@@ -8,7 +8,7 @@
     "ejs": "^3.0.1",
     "express": "^4.17.1",
     "heroku": "^7.35.1",
-    "mongodb": "^3.4.1",
+    "mongodb": "^3.5.3",
     "parser": "^0.1.4"
   },
   "devDependencies": {},
@@ -20,4 +20,3 @@
   "license": "ISC",
   "description": ""
 }
-
